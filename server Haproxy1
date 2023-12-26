@@ -1,6 +1,0 @@
-Server2	: 192.168.1.14
-server1	: 192.168.1.13
-server3	: 192.168.1.11
-
-
-python manage.py createsuperuser
